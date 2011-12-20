@@ -1,0 +1,39 @@
+#questions {
+	width: 400px;
+	height: 250px;
+	border: 1px solid #000;
+}
+
+.box{
+	border: 1px solid #888;
+	float: left;
+	
+}
+video{float:left;}
+#video{
+	height: 252px;
+}
+#blackboard{
+	width: 300px;
+	height: 250px;
+	border: 1px solid #000;
+	
+}
+
+#webpage-frame{
+	width: 1000px;
+	height: 400px;
+	
+}
+.clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+iframe{
+	frameborder: 0;
+}
